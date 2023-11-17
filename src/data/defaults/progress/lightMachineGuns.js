@@ -17,14 +17,14 @@ export default {
 
   'DG-58 LSW': {
     multiplayer: {
-      'Psycheledic Sky': false,
+      'Psychedelic Sky': false,
       'Topo Reverb': false,
       'Cold Fall': false,
       'B&W Re-Fuzz': false,
     },
 
     zombies: {
-      'Psycheledic Ridge': false,
+      'Psychedelic Ridge': false,
       'Topo Spirit': false,
       'Stonework': false,
       'Spectral Sight': false,

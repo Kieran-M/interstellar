@@ -62,7 +62,8 @@ export default {
 
     'Gilded': {
       amount: 2,
-      type: 'kills_shortly_after_sprinting_one_life',
+      times: 10,
+      type: 'kills_without_releasing_trigger',
     },
 
     'Forged': {
@@ -106,7 +107,8 @@ export default {
 
     'Gilded': {
       amount: 2,
-      type: 'kills_shortly_after_sprinting_one_life',
+      times: 10,
+      type: 'kills_without_releasing_trigger',
     },
 
     'Forged': {
@@ -150,7 +152,8 @@ export default {
 
     'Gilded': {
       amount: 2,
-      type: 'kills_shortly_after_sprinting_one_life',
+      times: 10,
+      type: 'kills_without_releasing_trigger',
     },
 
     'Forged': {
